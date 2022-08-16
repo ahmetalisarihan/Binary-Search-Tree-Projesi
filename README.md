@@ -8,11 +8,13 @@ Root = 7
      /
     5
     
+    
        7
      /
     5
    /
   1
+  
   
        7
      /  \8
@@ -20,11 +22,13 @@ Root = 7
    /
   1
   
+  
         7
      /    \
     5       8
    /
   1
+  
   
         7
      /    \
@@ -34,6 +38,7 @@ Root = 7
     \
       3
   
+  
           7
         /   \
        5       8
@@ -42,6 +47,7 @@ Root = 7
   /   \
  0     3
  
+ 
           7
         /   \
        5       8
@@ -49,6 +55,7 @@ Root = 7
     1      6       
   /   \
  0     3
+  
   
   
           7
@@ -60,6 +67,7 @@ Root = 7
  0     3
   
   
+  
           7
         /   \
        5      8
@@ -69,5 +77,6 @@ Root = 7
  0     3
       /  \
      2    4
+  
   
  https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
